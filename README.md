@@ -3,18 +3,11 @@
 # djs-ticket-system
 This DJS ticket system with transcripts is fully configurable, you can change the transcripts channel, tickets channel, and more! This command uses embeds, and buttons.
 
-# CHANGELOG #2
-- Fixed errors
-- Fixed interaction errors
-- Added claim button for supporters
-- Fixed delete ticket spam will crash the bot
-- Thanks ducko for the fixes :)
-
 ## Dependencies:
 -  mongoose => `npm i mongoose`
 -  chalk => `npm i chalk@4.1.2`
 -  dotenv => `npm i dotenv`
-- discord-html-transcripts => `npm i discord-html-transcripts`
+-  discord-html-transcripts => `npm i discord-html-transcripts`
 
 # Instructions:
 1) Place the command into your commands folder.
