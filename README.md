@@ -1,5 +1,7 @@
 ![Image](https://cdn.discordapp.com/attachments/1009197481915056160/1009240837055586364/TICKET_SYSTEM.jpg)
 
+# This is my version of https://github.com/LunarTaku/djs-ticket-system
+
 # djs-ticket-system
 This DJS ticket system with transcripts is fully configurable, you can change the transcripts channel, tickets channel, and more! This command uses embeds, and buttons.
 
