@@ -10,6 +10,7 @@ This DJS ticket system with transcripts is fully configurable, you can change th
 ```
 -  npm i mongoose
 -  npm i discord-html-transcripts
+-  npm i discord.js@14.3.0
 ```
 # Instructions:
 1) Place the command into your commands folder.
