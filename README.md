@@ -16,6 +16,10 @@ This DJS ticket system with transcripts is fully configurable, you can change th
 4) Place the event into your events folder.
 5) Else make sure every path is right!
 
+# Coming Soon:
+1) Add/Remove Command
+2) Modal Close Reason
+
 # MongoDB Connection:
 - be sure to add this to your ready.js file.
 ```
