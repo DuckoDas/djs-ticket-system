@@ -7,9 +7,10 @@
 This DJS ticket system with transcripts is fully configurable, you can change the transcripts channel, tickets channel, and more! This command uses embeds, and buttons.
 
 ## Dependencies:
+```
 -  mongoose => `npm i mongoose`
 -  discord-html-transcripts => `npm i discord-html-transcripts`
-
+```
 # Instructions:
 1) Place the command into your commands folder.
 2) Create a new folder in the bot root direcatory and name it "Schemas", and than place the schema in there.
