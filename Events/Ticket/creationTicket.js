@@ -34,10 +34,18 @@ module.exports = {
 
     if (!interaction.customId.includes("createTicket")) return;
 
+    if (client.guilds.cache.get(interaction.guildId).channels.cache.find(c => c.topic == interaction.user.id)) {
+      return interaction.reply({
+        embeds: [new EmbedBuilder().setColor("Blurple").setDescription(`You already have a ticket open. Close the ticket before creating a new ticket please`)],
+        ephemeral: true
+      });
+    };
+    
     const ID = Math.floor(Math.random() * 90000) + 10000;
     await guild.channels
       .create({
         name: `${interaction.user.username + "-" + ID}`,
+        topic: interaction.user.id,
         parent: data.Category,
         permissionOverwrites: [
           {
