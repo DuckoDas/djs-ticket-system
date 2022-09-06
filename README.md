@@ -19,7 +19,7 @@ This DJS ticket system with transcripts is fully configurable, you can change th
 
 # MongoDB Connection:
 - be sure to add this to your ready.js file.
-```
+```js
 const { MongoDB } = require("MongoDB URL");
 const { connect } = require("mongoose");
 
