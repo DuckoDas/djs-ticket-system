@@ -8,8 +8,8 @@ This DJS ticket system with transcripts is fully configurable, you can change th
 
 ## Dependencies:
 ```
--  mongoose => `npm i mongoose`
--  discord-html-transcripts => `npm i discord-html-transcripts`
+-  npm i mongoose
+-  npm i discord-html-transcripts
 ```
 # Instructions:
 1) Place the command into your commands folder.
