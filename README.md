@@ -2,6 +2,7 @@
 
 ## I MADE MY OWN VERSION RECODED A LOT:) CREDIT TO LUNAR FOR THE BASICS
 ## The ticket system was made for my bot Peep so thats the reason if everything is blurple
+# Currently improving! Still works like this:)
 
 # djs-ticket-system
 This DJS ticket system with transcripts is fully configurable, you can change the transcripts channel, tickets channel, and more! This command uses embeds, and buttons.
