@@ -115,7 +115,9 @@ module.exports = {
         userSchema
           .findOneAndDelete({ GuildID: guild.id })
           .catch((err) => console.log(err));
+        setTimeout(() => {
         channel.delete();
+          }, 1 * 1000)
         break;
       case "lock":
         if (userData.Locked == true)
