@@ -3,7 +3,7 @@
 # djs-ticket-system
 This is a custom discord.js v14 ticket system full remade by Ducko little help by Roald;) 
 
-- Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the code<3
+Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the code<3
 
 ## Dependencies:
 -  [Roald Modal Handler](https://github.com/RoaldDahl/Modal-Handler)
