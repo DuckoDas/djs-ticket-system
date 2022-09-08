@@ -5,14 +5,17 @@
 # Currently improving! Still works like this:)
 
 # djs-ticket-system
-This DJS ticket system with transcripts is fully configurable, you can change the transcripts channel, tickets channel, and more! This command uses embeds, and buttons.
+This is a custom discord.js v14 ticket system full remade by Ducko little help by Roald;) 
+
+- Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the code<3
 
 ## Dependencies:
-```
+-  [Roald Modal Handler](https://github.com/RoaldDahl/Modal-Handler)
+-  [Roald Button Handler](https://github.com/RoaldDahl/Button-Handler)
 -  npm i mongoose
 -  npm i discord-html-transcripts
 -  npm i discord.js@14.3.0
-```
+
 # Instructions:
 1) Place the command into your commands folder.
 2) Create a new folder in the bot root direcatory and name it "Schemas", and than place the schema in there.
