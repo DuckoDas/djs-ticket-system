@@ -47,5 +47,7 @@ module.exports = {
 };
 ```
 
+# Any errors join my [Discord](https://discord.gg/TKz7BMwEap) or dm me! Ducko#7068
+
 # Contributing:
 > if you want to contribute create a fork of this project and when you are done editing it update the fork and create a pull request.
