@@ -1,7 +1,7 @@
 # Recode by Ducko - Changed everything more clean and other stuff addded
 
 # djs-ticket-system
-This is a custom discord.js v14 ticket system full remade by Ducko little help by Roald;) 
+This is a custom discord.js v14 ticket system full remade by Ducko little help by Roald;)
 
 Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the code<3
 
@@ -13,8 +13,8 @@ Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the cod
 -  npm i discord.js@14.3.0
 
 # Changelog
-- Added Add-Remove Command
 - Changed Design
+- Added Add-Remove Command
 - Added Button Handler requirements
 - Added modal Handler requirements
 - Added Claim Button
@@ -24,11 +24,12 @@ Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the cod
 - Added Delete-Counter Command (Resets the counter)
 
 # Instructions:
-1) Place the command into your commands folder.
-2) Create a new folder in the bot root direcatory and name it "Schemas", and than place the schema in there.
-3) Change all the paths to the right ones if needed.
-4) Place the event into your events folder.
-5) Else make sure every path is right!
+1) Place Commands in your command folder
+2) Place Buttons in your button folder using [Roald Button Handler](https://github.com/RoaldDahl/Button-Handler)
+3) Place Modals in your modal folder using [Roald Modal Handler](https://github.com/RoaldDahl/Modal-Handler)
+4) Place Schemas the schemas in your schema folder
+5) Make the paths right for your bot!
+6) Any errors? Scroll down!
 
 # MongoDB Connection:
 - be sure to add this to your ready.js file.
