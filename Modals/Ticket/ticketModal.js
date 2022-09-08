@@ -59,7 +59,7 @@ module.exports = {
         **ID:** ${Count}
         **Close Reason:** ${input}
         **Closed By:** ${member}
-        **Claimed By:** ${userData.ClaimedBy ? `<@${userData.ClaimedBy}>` : "None"}
+        **Claimed By:** ${userDB.ClaimedBy ? `<@${userDB.ClaimedBy}>` : "None"}
         **Ticket Owner:** <@${userDB.OwnerID}>
         `,
     });
