@@ -12,7 +12,7 @@ Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the cod
 -  npm i discord-html-transcripts
 -  npm i discord.js@14.3.0
 
-# Changelog
+# Changelog #1
 - Changed Design
 - Added Add-Remove Command
 - Added Button Handler requirements
@@ -22,6 +22,7 @@ Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the cod
 - Added Ticket Counter
 - Added Delete-Setup Command
 - Added Delete-Counter Command (Resets the counter)
+- Fixed ClaimedBy code in Ticket Modal
 
 # Instructions:
 1) Place Commands in your command folder
