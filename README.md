@@ -1,8 +1,4 @@
-![Image](https://cdn.discordapp.com/attachments/1009197481915056160/1009240837055586364/TICKET_SYSTEM.jpg)
-
-## I MADE MY OWN VERSION RECODED A LOT:) CREDIT TO LUNAR FOR THE BASICS
-## The ticket system was made for my bot Peep so thats the reason if everything is blurple
-# Currently improving! Still works like this:)
+# Recode by Ducko - Changed everything more clean and other stuff addded
 
 # djs-ticket-system
 This is a custom discord.js v14 ticket system full remade by Ducko little help by Roald;) 
@@ -15,6 +11,17 @@ This is a custom discord.js v14 ticket system full remade by Ducko little help b
 -  npm i mongoose
 -  npm i discord-html-transcripts
 -  npm i discord.js@14.3.0
+
+# Changelog
+- Added Add-Remove Command
+- Changed Design
+- Added Button Handler requirements
+- Added modal Handler requirements
+- Added Claim Button
+- Added Modal Close Reason
+- Added Ticket Counter
+- Added Delete-Setup Command
+- Added Delete-Counter Command (Resets the counter)
 
 # Instructions:
 1) Place the command into your commands folder.
