@@ -13,9 +13,6 @@ const countDB = require("../../Structures/Schemas/ticketCount");
 const userDB = require("../../Structures/Schemas/guildTickets");
 
 module.exports = {
-  cooldown: 10000,
-  botPerms: PermissionFlagsBits.ManageGuild,
-  userPerms: PermissionFlagsBits.ManageGuild,
   data: new SlashCommandBuilder()
     .setName("ticket")
     .setDescription("Configue the ticket system")
