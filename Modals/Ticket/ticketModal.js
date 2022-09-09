@@ -41,7 +41,7 @@ module.exports = {
       returnType: "attachment",
       saveImages: true,
       minify: true,
-      fileName: `${userData.OwnerID + "-" + "Ticket"}.html`,
+      fileName: `Ticket-${guild.name}.html`,
     });
 
     await userData.updateOne({ ChannelID: channel.id }, { Closed: true });
