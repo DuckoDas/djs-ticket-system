@@ -1,7 +1,6 @@
 # Recode by Ducko - Changed everything more clean and other stuff addded
 
-# djs-ticket-system
-This is a custom discord.js v14 ticket system full remade by Ducko little help by Roald;)
+# UPDATE SOON AT: https://github.com/DuckoDas/DJS-Ticket-System-v14
 
 Credit to [Roald](https://github.com/RoaldDahl) for helping with some of the code<3
 
